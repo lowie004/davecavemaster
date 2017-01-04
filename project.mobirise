@@ -131,7 +131,7 @@
           "title1": "Lessons",
           "subtitle1": "&nbsp;Guitar Lessons",
           "caption1": "Dave Tweedie imparts his wealth of experience&nbsp;",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
@@ -431,21 +431,6 @@
               "placeId": "ChIJn6wOs6lZwokRLKy1iqRcoKw",
               "address": "350 5th Ave, New York, NY 10118",
               "state": "ok"
-            }
-          }
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "map1",
-          "_anchor": "map1-9",
-          "_params": {
-            "googleMap": {
-              "address": "16 Flanagan Place Moruya",
-              "placeId": "ChIJA_ks0CDxFWsRLa1nceiATIQ",
-              "state": "ok",
-              "stateDetails": ""
             }
           }
         },
